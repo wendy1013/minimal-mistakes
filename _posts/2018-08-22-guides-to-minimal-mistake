@@ -7,11 +7,3 @@ Theme - minimal mistakes
 "https://junhobaik.github.io/jekyll-apply-theme/" 
 
 
----
-published: true
-layout: single
-title: "first posting"
-category: post
-tags:
-comments: true
----
