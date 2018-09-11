@@ -19,4 +19,4 @@ $> PATH=/Applications/MATLAB_R2017b.app/bin:$PATH
 
 4. run LGI
 
-$> recon-all -s <subj> -localGI
+$> recon-all -s subj -localGI
