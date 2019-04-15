@@ -4,39 +4,11 @@ We thank the reviewer for raising this crucial issue which have been discussed i
 
 Further, there was a significant group difference between HCs, CHR and FEP on IQ. However, post hoc analysis revealed there were no statistically significant difference between HCs and CHR subjects, but only between HCs and FEP, and CHR and FEP subjects. Thus, we viewed analysis with IQ as a covariate in our sample can lead to rather masking the cognitive deficits and chose not to include the variable in our analysis.
 
-Table. Multiple comparisons of group means of IQ by Bonferroni post hoc test
-Group	Mean 
-Difference	Std. Error	Sig.	95% Confidence Interval
-				Lower Bound	Upper Bound
-HCs	CHR	3.65294	2.70753	.536	-2.8819	10.1878
-	FEP	11.68235	2.16603	.000 *	6.4544	16.9103
-CHR	HCs	-3.65294	2.70753	.536	-10.1878	2.8819
-	FEP	8.02941	2.70753	.010 *	1.4945	14.5643
-FEP	HCs	-11.68235	2.16603	.000 *	-16.9103	-6.4544
-	CHR	-8.02941*	2.70753	.010 *	-14.5643	-1.4945
-Note: FEP, first-episode psychosis; CHR, clinical high risk; HCs, healthy controls.
-*. Significant at the 0.05 level.
+
 
 However, appreciating the reviewer’s comment, we attach below the analysis when IQ was included as a covariate, as well as antipsychotic dosage and sex. Indeed, with the additional covariate of IQ, the results became somewhat diminished and the post hoc results revealed less of CHR deficits. It is to be noted that CHR individuals do not have lower IQ than HCs. Thus, in this analysis, the executive function of CHR individuals have been rather over-adjusted for their IQ, defeating our main purpose of the analysis of investigating the global and specific aspects of cognitive deficits in HCs, CHR and FEP subjects.
 
-Table. Means of Raw Scores or Scaled Scores of CHR, FEP and HCs for Executive Function Domains with covariates of IQ, sex and olanzapine-equivalent dose
-	CHR (n = 40)	FEP (n = 85)	HCs (n = 85)			
-Neurocognitive Task	Mean (SD)	Mean (SD)	Mean (SD)	F (2,204)	p	Post hoc
-						comparisons
-Shifting						
-TMT B-A	-45.72 (23.73)	-58.54 (47.47)	-31.8 (14.79)	9.99	<.001*	HC>FEP, 
-WCST Perseveration	-11.89 (7.00)	-15.84 (11.15)	-9.84 (5.78)	4.31	<.015	HC>FEP
-Attention						
-SST SSRT	-215.16 (104.89)	-228.69 (117.58)	-173.03 (65.58)	2.73	<.067	HC>FEP
-Fluency						
-COWA Word	35.94 (7.90)	31.31 (8.34)	41.33 (8.48)	8.44	<.001*	HC>FEP
-COWA Category	39.09 (10.10)	32.31 (11.93)	45.50 (10.58)	11.08	<.001*	HC>FEP
-Planning						
-RCFT Planning	3.00 (0.71)	3.25 (0.84)	3.27 (0.76)	1.34	0.264	
-SWM Errors	-20.40 (18.08)	-28.12 (22.14)	-11.75 (12.26)	15.37	<.001*	HC>FEP, CHR>FEP
-FEP, first-episode psychosis; CHR, clinical high risk; HCs, healthy controls; TMT, Trail Making Test; WCST, Wisconsin Card Sorting Test; SST, Stop Signal Test; COWA, Controlled Oral Word 
-Association Test; RCFT, Rey-Complex Figure Test, SWM, Spatial Working Memory Test; SD, standard deviation. 
-*Significant at an alpha level of .007, adjusted for IQ, sex and olanzapine-equivalent dose.
+
 
 Reference 
 1. Bora E, Murray RM. Meta-analysis of cognitive deficits in ultra-high risk to psychosis and first-episode psychosis: do the cognitive deficits progress over, or after, the onset of psychosis? Schizophr Bull. 2014 Jul;40(4):744-755.
@@ -54,26 +26,7 @@ We apologize for the lack of clarity in the description of our results in “2.2
 We greatly appreciate for the reviewer’s constructive comments in improving our results presentation. We noticed there had been an unfortunate mistake and that it is not necessary to present the standardized scores of HCs. Further, appreciating the reviewer’s comment, we have tried adding standard deviations to the graph. However, like many other papers, one of our main intentions of employing the radar plot to represent our results was to present the pattern of the cognitive deficits in the most intuitive way possible. Addition of standard deviations to the graph, regrettably, seemed to deviate from this intention and the figure looked obscured. Thus, the newly uploaded graph only describes the results of CHR individuals and FEP patients.
 
 However, appreciating the reviewer’s insightful comment, we have facilitated the z-score standard deviation information on our supplementary document as “Supplementary Table 1: Z-score means of Executive Function Domains” and it is as follows:
-Supplementary Table 1: Z-score means of Executive Function Domains
-for CHR individuals and FEP patients
-	CHR (n = 40)	FEP (n = 85)
-Neurocognitive Task	Mean (SD)	Mean (SD)
-		
-Shifting		
-TMT B-A	0.76 (1.45)	1.20 (2.09)
-WCST Perseveration	0.28 (1.27)	0.76 (1.61)
-Attention		
-SST SSRT	0.54 (1.50)	0.80 (1.67)
-Fluency		
-COWA Word	0.44 (0.88)	1.02 (1.14)
-COWA Category	0.57 (0.99)	1.16 (0.98)
-Planning		
-RCFT Planning	0.31 (0.96)	0.34 (1.24)
-SWM Errors	0.66 (1.53)	1.21 (1.67)
-FEP, first-episode psychosis; CHR, clinical high risk; HCs, healthy controls; TMT, Trail 
-Making Test; WCST, Wisconsin Card Sorting Test; SST, Stop Signal Test; COWA, 
-Controlled Oral Word Association Test; RCFT, Rey-Complex Figure Test, SWM, Spatial 
-Working Memory Test; SD, standard deviation. 
+
 
 To the reviewer’s comment on the clinical populations having positive z-scores, indeed the reviewer is correct that we represented the absolute scores. We regret not being clear with our figure description and has been revised as follows: 
 
