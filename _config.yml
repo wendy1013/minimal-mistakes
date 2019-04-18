@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Wendy Hwang's blog"
+title                    : "Wendy Hwang"
 title_separator          : "-"
 name                     : "Wendy Hwang"
 description              : "Postgraduate student at Seoul National University"
@@ -130,6 +130,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  ResearchGate     : "https://www.researchgate.net/profile/Wu_Jeong_Hwang2"
 
 
 # Reading Files
