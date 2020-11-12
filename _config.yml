@@ -136,7 +136,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - author-profile-custom-links.html
+  - author-profile-custom-links
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
