@@ -1,7 +1,7 @@
 ---
 title:  "Posts"
 layout: archive
-permalink: /Posts/
+permalink: /posts/
 author_profile: true
 comments: true
 ---
